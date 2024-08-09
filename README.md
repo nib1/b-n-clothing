@@ -1,2 +1,2 @@
 # b-n-clothing
-clothing crand
+clothing brand
